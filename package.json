@@ -13,7 +13,12 @@
     "test:vue": "webpack-dev-server --config config/test.vue.js",
     "test:react": "webpack-dev-server --config config/test.react.js"
   },
-  "keywords": [],
+  "keywords": [
+    "md2react",
+    "md2vue",
+    "import",
+    "plugin"
+  ],
   "author": "svmio",
   "license": "MIT",
   "repository": {
